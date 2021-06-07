@@ -12,10 +12,10 @@ int main()
 	}
 	if(sum==n)
 	{
-		printf("%d is a strong Number",n);
+	printf("%d is a Perfect Number",n);
 	}
 	else
 	{ 
-	printf("%d is not a strong Number",n);
+	printf("%d is not a Perfect Number",n);
 	}
 }
